@@ -1,5 +1,6 @@
 n1 = int(input('Digite o número: '))
-n2 = 1
+s = n1 + 1
+a = n1 - 1
 
-print('O antecessor de {} é: '.format(n1 - n2))
-print('O sucessor de {} é: '.format(n1 + n2))
+print('O antecessor de {} é: '.format(a))
+print('O sucessor de {} é: '.format(s))
