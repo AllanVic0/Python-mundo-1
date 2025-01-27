@@ -3,10 +3,9 @@ nomeM = nome.upper()
 nomem = nome.lower()
 nomeqtd = len(nome)
 qtdcaractere = len(nome.replace(" ", ""))
-qtnome1 = len(nome[:5])
-qtnome11 = len(nome.split([0]))
 
-# faltando concluir esse desafio
+
+# não consegui a ultima q do desafio
 
 print(nome)
 print(nomeM)
